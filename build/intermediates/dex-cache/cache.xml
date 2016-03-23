@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/SocialSDK_tencentWB_3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0cdae7f2f8c2e3a9eec737e14b231efed9c87ec">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_3_dae452052c928a3e87ad9b52702b8229b4b771af.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/Library/unspecified/jars/libs/fastjson-1.1.28.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9ccd8962e8551ccbddc4b8404a496dac23ead611">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/fastjson-1.1.28_149d13fb35b1fc39d8f52d3129c2cc4b7356a3e7.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_89a647c5ce616a19553e5661d85a94956fd6a07a.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="db233c9c0f3127bc6bbd07eee7c333e9e78a0f0b">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_1_1fe84b88ce4cbcf94abc44579ded9ad3990dd1ae.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/umeng-analytics-v5.5.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e85a1298eb3d8d9bbd0bf7859265d4a4724c71c2">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/umeng-analytics-v5.5.3_a296cb4e66c1e231f2c5276711c757d79e3d234f.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ca3e275361b4663147d0fec2bc84a26a964c0ee9">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_1_1c112dc74c6029cb91ab944a1d6a30981e1d7e0c.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_da3ae16c05cb1bba5e77c9c3c8e83b2285fd95dc.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb2466f9d8a6627eee2b6baa1a6b6e2e63b02e09">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/umeng_social_sdk_a4b61905af98af5e8e09b335ba1f0b3ed06898f6.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99f1c989e63650a768878aca523645c63195d20e">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_2_eec74be9de0dbc7fba827e78700680284c584226.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="37c17cb500dc3ebecbc7e13c7b368e446fccfa21">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_2_6e7e0fa4f6fbc424949e768d88f753524e055039.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="453e52a8261b56ed31263cb94988072d4146a2e0">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_3_720a99c085c971e839696704233fbadd3d247ce0.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb456ff7942e4949e46f3c512426ab95312b64f6">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/httpmime-4.1.3_2ec916a936a628e8b8f5e01318617d967dbef13b.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ee807b507368ba43b66830e0c3eae497c4bf0d22">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/wup-1.0.0-SNAPSHOT_022db9c1326327906d177e95cb90bb870f9c94a9.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a98e087a086f1bd00ee5df8d2648c28eadefbca">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_1_3a2c114bc922a60eb39ed296db6e9c1f77e52af7.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/Library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7372dca5cf3e6cbfdb02405a316f93087e14214e">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/THINKCMF-Library-unspecified_497698de2424304913c48449c4add9cf8209dad0.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/mid-sdk-2.10.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bfc4b30deaeab8ff6523b8f2c4ddb6fd55c958e8">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/mid-sdk-2.10_94027f3206e52cef9f329e0eacc64ade9ec64f5a.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c2fd3f91d24f07377d5abafb69be14a411355a6">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/THINKCMF-ComponetLibrary-unspecified_8cb563209da6c730c1422ddfe43e71316b2a88aa.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_e333dd2b499d7f4385a723b0c3ee3b8155ed9629.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/Xg_sdk_v2.37.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c460b3e501e5d353ab010e4da7d794c10c2acf6d">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/Xg_sdk_v2.37_6b5c77860cc5238ef8063dea11f0296f3cd8c025.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8ed185e1c64c1daba4a609ca460388d155db0da1">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_2_5d2672df13f5c0579969d12b0289b54073c312f0.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_ba5a5aaae8ec442204e0dd0ed105880684d44f2c.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/SocialSDK_sms.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="953a467832732cbfbe498f5e7d6028869605fd68">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/SocialSDK_sms_9230c25677948e809d4d812fa24a7e5c7fd36d84.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/umeng-feedback-v4.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ab09ff8f6cf023840ae6d16bd459b97aa87c2115">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/umeng-feedback-v4.3_7b80869098d2dc5960ceb22a497a9fdcb32db4bd.jar" />
+    </item>
+    <item
+        jar="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/exploded-aar/THINKCMF/ComponetLibrary/unspecified/jars/libs/SocialSDK_Sina.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="48a086d3b87d3e02d9dd8b849d03ba617507fb2a">
+        <dex dex="/home/mtjo/AndroidStudioProjects/THINKCMF/app/build/intermediates/pre-dexed/debug/SocialSDK_Sina_5bc873654a77f651323d5388d07cd3a40aee1b34.jar" />
+    </item>
+
+</items>
